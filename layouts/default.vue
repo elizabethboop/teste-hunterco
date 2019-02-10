@@ -1,11 +1,11 @@
 <template>
   <div>
     <nav
-      class="navbar navbar-expand-md fixed-top"
+      class="navbar navbar-expand-md fixed-top color"
       style="border-bottom: 1px solid #e7e7e7 !important;"
     >
       <a
-        class="navbar-brand"
+        class="navbar-brand color"
         href="#"
       >HunterConnect</a>
 
@@ -16,28 +16,10 @@
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
             <a
-              class="nav-link"
+              class="nav-link color"
               href="#"
             >
               Vagas
-            </a>
-          </li>
-          <li class="nav-item">
-            <a
-              class="nav-link"
-              href="https://br.vuejs.org/"
-              target="_blank"
-            >
-              VueJs
-            </a>
-          </li>
-          <li class="nav-item">
-            <a
-              class="nav-link"
-              href="https://nuxtjs.org/"
-              target="_blank"
-            >
-              NuxtJs
             </a>
           </li>
         </ul>
@@ -49,9 +31,7 @@
             placeholder="Buscar vagas"
             aria-label="Buscar vagas"
           >
-          <button class="btn btn-outline-primary my-2 my-sm-0">
-            Buscar
-          </button>
+          <button type="button" class="btn btn-secondary my-2 my-sm-0 fundo">Buscar</button>
         </form>
       </div>
     </nav>
