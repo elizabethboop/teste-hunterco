@@ -27,3 +27,4 @@ $ npm run dev
 Para mais detalhes: [Nuxt.js docs](https://nuxtjs.org), [Vue.js docs](https://br.vuejs.org) e [Bootstrap docs](https://getbootstrap.com/).
 
 Para exemplos de portal de vagas veja a [imagem](https://web-static.hunterco.com.br/hunterco/old-connect.png) ou acesse o [HunterConnect](https://vagas.hunterco.com.br).
+# testeHunterco
