@@ -31,15 +31,7 @@ export default {
         tags: ['HTML', 'CSS', 'Bootstrap', 'VueJs', 'Git', 'Vuetify', 'NodeJs'],
         cidade: 'Blumenau'
       },
-      {
-        vaga: 'Desenvolvedor Full-Stack',
-        nome_empresa: 'JetBov',
-        valor: 1500,
-        area: 'Desenvolvimento',
-        senioridade: 'Estágio',
-        tags: ['NodeJs', 'Python', 'MySQL', 'MongoDB'],
-        cidade: 'Joinville'
-      },
+
       {
         vaga: 'Vendedor Interno',
         nome_empresa: 'HunterCo',
@@ -60,15 +52,7 @@ export default {
         tags: ['Suporte', 'Atendimento', 'PHP', 'Web'],
         cidade: 'Blumenau'
       },
-      {
-        vaga: 'Desenvolvedor Java',
-        nome_empresa: 'Ibratan',
-        valor: 1250,
-        area: 'Desenvolvimento',
-        senioridade: 'Sênior',
-        tags: ['Java', 'Maven', 'TDD', 'MySQL', 'Spring'],
-        cidade: 'Joinville'
-      },
+
       {
         vaga: 'Gerente de Projetos',
         nome_empresa: 'DIWE',
@@ -98,7 +82,25 @@ export default {
         senioridade: 'Sênior',
         tags: ['Desenvolvedor', 'Angular', 'Mobile', 'AWS', 'MongoDB', 'Java', 'Spring', '', 'Selenium'],
         cidade: 'Joinville'
-      }
+      },
+      {
+        vaga: 'Desenvolvedor Full-Stack',
+        nome_empresa: 'JetBov',
+        valor: 1500,
+        area: 'Desenvolvimento',
+        senioridade: 'Estágio',
+        tags: ['NodeJs', 'Python', 'MySQL', 'MongoDB'],
+        cidade: 'Joinville'
+      },
+      {
+        vaga: 'Desenvolvedor Java',
+        nome_empresa: 'Ibratan',
+        valor: 1250,
+        area: 'Desenvolvimento',
+        senioridade: 'Sênior',
+        tags: ['Java', 'Maven', 'TDD', 'MySQL', 'Spring'],
+        cidade: 'Joinville'
+      },
     ]
   }
 }
